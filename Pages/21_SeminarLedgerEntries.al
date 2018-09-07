@@ -36,6 +36,7 @@ page 123456721 "CSD Seminar Ledger Entries"
                 }
                 field("Bill-to Customer No.";"Bill-to Customer No.")
                 {
+                    Caption='Bill-to Customer No.2';
                 }
                 field("Charge Type";"Charge Type")
                 {

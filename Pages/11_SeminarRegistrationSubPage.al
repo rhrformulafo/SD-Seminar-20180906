@@ -8,6 +8,7 @@ page 123456711 "CSD Seminar Reg. Subpage"
     DelayedInsert = true;
     PageType = ListPart;
     SourceTable = "CSD Seminar Registration Line";
+    AutoSplitKey=true;
 
     layout
     {
@@ -17,6 +18,7 @@ page 123456711 "CSD Seminar Reg. Subpage"
             {
                 field("Bill-to Customer No.";"Bill-to Customer No.")
                 {
+                    Caption='Bill-to Customer No.';
                 }
                 field("Participant Contact No.";"Participant Contact No.")
                 {

@@ -18,6 +18,7 @@ page 123456735  "CSD Post Seminar Reg. Subpage"
             {
                 field("Bill-to Customer No.";"Bill-to Customer No.")
                 {
+                    Caption='Bill-to Customer No.4';
                 }
                 field("Participant Contact No.";"Participant Contact No.")
                 {

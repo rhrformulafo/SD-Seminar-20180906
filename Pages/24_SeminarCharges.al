@@ -29,6 +29,7 @@ page 123456724 "CSD Seminar Charges"
                 }
                 field("Bill-to Customer No.";"Bill-to Customer No.")
                 {
+                    Caption='Bill-to Customer No.3';
                 }
                 field("Gen. Prod. Posting Group";"Gen. Prod. Posting Group")
                 {

@@ -60,7 +60,7 @@ codeunit 123456739 EventSubscriptions
                 else NextEntryNo := 1;
 
                 Init; "Entry No." := NextEntryNo;
-                "Table ID" := Database::"CSD Posted Seminar Reg. Header";
+                "Table ID" := Database::"CSD Seminar Ledger Entry";
                 "Document Type" := 0;
                 "Table Name" := COPYSTR(SeminarLedgerEntry.TableCaption, 1, MAXSTRLEN("Table Name"));
                 "No. of Records" := DocNoOfRecords;
